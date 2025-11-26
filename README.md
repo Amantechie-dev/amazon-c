@@ -1,2 +1,2 @@
 # amazon-c
-author aman singh
+Author-Aman Singh
